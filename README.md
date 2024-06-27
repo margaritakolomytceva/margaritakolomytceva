@@ -5,7 +5,7 @@
 ### 👨‍💻 Обо мне:
 
 Я Junior-тестировщик, безумно влюбленный в свою профессию! Окончила курс Артема Русова "Тестировщик с нуля". Ниже Вы можете ознакомиться с моими наработками за время прохождения курса.
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:margaritakolomyceva529@gmail.com) [![Yandex Badge](https://img.shields.io/badge/-Яндекс-red?style=plastic&logo=Yandex&logoColor=white)](mailto:msichuk@yandex.ru)
 
 ---
 
