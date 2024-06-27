@@ -73,6 +73,13 @@
 
 1. [Теория тестирования](https://github.com/margaritakolomytceva/theory)
 2. [Тестовая документация](https://github.com/margaritakolomytceva/docs)
+3. [Техники тест-дизайна](https://github.com/margaritakolomytceva/design)
+4. [Тестирование API](https://github.com/margaritakolomytceva/api)
+5. [Работа с базами данных](https://github.com/margaritakolomytceva/database)
+6. [Тестирование мобильных приложений](https://github.com/margaritakolomytceva/mobile)
+7. [Тестирование веб-приложений](https://github.com/margaritakolomytceva/web)
+8. [Работа с git и bash](https://github.com/margaritakolomytceva/git_bash)
+
 
 <!-- ### 💻 Пройденные курсы:
 
