@@ -80,6 +80,11 @@
 7. [Работа с базами данных](https://github.com/margaritakolomytceva/database)
 8. [Работа с git и bash](https://github.com/margaritakolomytceva/git_bash)
 
+---
+
+### ✏️ [Резюме](https://github.com/margaritakolomytceva/My-CV)
+
+
 
 <!-- ### 💻 Пройденные курсы:
 
