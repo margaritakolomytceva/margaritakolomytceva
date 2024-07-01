@@ -82,7 +82,7 @@
 
 ---
 
-### ✏️ [Резюме](https://github.com/margaritakolomytceva/My-CV)
+### ✏️ [Резюме](https://drive.google.com/file/d/1__Vi0SAzJx4OQB1mx9s976RRjw3Wkvlf/view)
 
 
 
