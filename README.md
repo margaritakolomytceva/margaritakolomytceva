@@ -7,7 +7,7 @@
 Я Junior-тестировщик, безумно влюбленный в свою профессию! Окончила курс Артема Русова "Тестировщик с нуля". Ниже Вы можете ознакомиться с моими наработками за время прохождения курса.
 - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:margaritakolomyceva529@gmail.com) [![Yandex Badge](https://img.shields.io/badge/-Яндекс-red?style=plastic&logo=Yandex&logoColor=white)](mailto:msichuk@yandex.ru)
 
-### ✏️ [Резюме](https://drive.google.com/drive/my-drive)
+### ✏️ [Резюме](https://drive.google.com/file/d/1ItnZjHj-ZfHvKEWSNcHOX-ojxwv-cmeh/view?usp=sharing)
 ---
 
 ### 🤝 Социальные сети:
